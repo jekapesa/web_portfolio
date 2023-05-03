@@ -13,7 +13,7 @@
 		</nav>
 	</header>
   <main>
-		<section id="about">
+		<section id="about" class="main">
 			<h2>About Me</h2>
 			<p>Hi! I'm Jeka, a multimedia design student at EASV in Denmark, passionate about creating engaging and impactful visual experiences. Whether it's graphic design, web design, or multimedia production, I strive to create work that inspires and resonates with audiences.</p>
 		</section>
@@ -46,7 +46,7 @@
 		</div>
 		</section>
 
-		<section id="cv">
+		<section id="cv" class="cv">
 			<h2>CV:</h2>
 			<div class="cv-link">
 				<a href="/pdf/CV JEKA PESA.pdf" target="_blank"><img src="../assets/pdf.png" alt="PDF CV"></a>
@@ -356,6 +356,12 @@ cursor: pointer;
   margin-right: 50px;
 }
 
+.about{
+  background-color: #2a2f4f !important;
+}
+.cv{
+  background-color: #2a2f4f !important;
+}
 /* Media queries */
 
 @media screen and (max-width: 768px) {
