@@ -13,7 +13,7 @@
 		</nav>
 	</header>
   <main>
-		<section id="about" class="main">
+		<section id="about" class="about">
 			<h2>About Me</h2>
 			<p>Hi! I'm Jeka, a multimedia design student at EASV in Denmark, passionate about creating engaging and impactful visual experiences. Whether it's graphic design, web design, or multimedia production, I strive to create work that inspires and resonates with audiences.</p>
 		</section>
