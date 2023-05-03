@@ -260,6 +260,7 @@ h2 {
 
   #cv h2 {
     font-size: 2rem;
+    color: black !important;
     margin-bottom: 20px;
     text-decoration: underline;
   }
@@ -295,6 +296,7 @@ h2 {
   #business-card h2 {
     font-size: 2rem;
     text-align: center;
+    color: black !important;
     margin-bottom: 10px;
     text-decoration: underline;
   }
